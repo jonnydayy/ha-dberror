@@ -1,5 +1,5 @@
 {
-  "name": "PSA Car Controller",
+  "name": "PSA Car Controller db rollback",
   "version": "v3.5.4",
   "slug": "psacc",
   "description": "Control and get information from your PSA car",
