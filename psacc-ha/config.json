@@ -1,6 +1,6 @@
 {
   "name": "PSA Car Controller db rollback",
-  "version": "3.5.4",
+  "version": "3.5.3",
   "slug": "psacc",
   "description": "Control and get information from your PSA car",
   "arch": [
@@ -15,7 +15,7 @@
   "ports": {
     "5000/tcp": null
     },
-  "image": "flobz/psa_car_controller:v3.5.3",
+  "image": "flobz/psa_car_controller",
   "legacy": true,
   "ingress": true,
   "ingress_port": 5000,
